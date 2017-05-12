@@ -4,7 +4,7 @@
 
 ## DockerHub
 
-the image is published in [DockerHub](docker pull jcaromiq/kotlin)
+the image is published in [DockerHub](https://hub.docker.com/r/jcaromiq/kotlin/)
 
 `docker pull jcaromiq/kotlin`
 
